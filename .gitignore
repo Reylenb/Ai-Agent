@@ -3,7 +3,7 @@ venv/
 env/
 ENV/
 
-
+apikey.env
 
 # Distribution / packaging
 dist/
