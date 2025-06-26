@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
